@@ -1,9 +1,9 @@
 ---
 layout: post
-title: hello, internet!
+title: hello internet.
 ---
 
-hello, internet!
+hello internet.
 
 this is my first post. nothing special. 
 
